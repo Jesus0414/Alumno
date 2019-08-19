@@ -16,7 +16,7 @@ namespace Estudiantes
 
         public Alumno()
         {
-            Nombre = "Pendiente";
+            Nombre = "Pendiente.";
             Matricula = "Sin asignar";
         }
 
